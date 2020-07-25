@@ -3,6 +3,7 @@ A pygame implementation of a visualizer for the renowned Informed search Algorit
 
 ## Installation and working
 Run "pip install -r requirements.txt"
+
 Run script with "python visualizer.py"
 
 ## How it works
